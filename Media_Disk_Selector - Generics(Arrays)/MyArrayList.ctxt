@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MyArrayList
+comment0.text=This\ is\ a\ generic\ class\ that\ is\ a\ ble\ to\ create\ an\ array\ of\ objects\ and\ also\ \r\ncontains\ methods\ to\ populate\ and\ manipulate\ the\ array\ to\ be\ used\ by\ MediaDiskObject\ class
+comment1.params=
+comment1.target=MyArrayList()
+comment1.text=Create\ an\ empty\ list
+comment10.params=
+comment10.target=boolean\ sortList()
+comment2.params=index\ e
+comment2.target=void\ add(int,\ java.lang.Object)
+comment3.params=e
+comment3.target=boolean\ contains(java.lang.Object)
+comment4.params=index
+comment4.target=java.lang.Object\ get(int)
+comment5.params=index
+comment5.target=java.lang.Object\ remove(int)
+comment6.params=
+comment6.target=void\ clear()
+comment7.params=low\ high
+comment7.target=void\ filter(java.lang.Object,\ java.lang.Object)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=int\ getSize()
+numComments=11
